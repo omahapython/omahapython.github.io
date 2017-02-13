@@ -16,11 +16,6 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <div>
-          <a href="https://github.com/omahapython/omahapython.github.io/tree/master/static/images#omahapython-logosvg" title="omahapython logo">
-            <img class="logoimg" src="static/images/omahapython-logo.svg.200x200.png" alt="OmahaPython Logo" width=200 height=200 style="margin: auto">
-          </a>
-        </div>
 
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
@@ -44,10 +39,15 @@
 
       </section>
       <footer>
+        <div>
+          <a href="https://github.com/omahapython/omahapython.github.io/tree/master/static/images#omahapython-logosvg" title="omahapython logo">
+            <img class="logoimg" src="static/images/omahapython-logo.svg.200x200.png" alt="OmahaPython Logo" width=200 height=200 style="margin: auto">
+          </a>
+        </div>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted by GitHub Pages &mdash; <a href="https://github.com/omahapython/omahapython.github.io">omahapython/omahapython.github.io</a> &mdash; <a href="https://github.com/pages-themes/minimal">Theme</a> by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
