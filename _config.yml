@@ -1,0 +1,17 @@
+# Site settings
+# Docs:
+# - https://help.github.com/articles/configuring-jekyll/
+# - https://jekyllrb.com/docs/configuration/
+# - https://jekyllrb.com/docs/frontmatter/
+
+title: omahapython.github.io -- Omaha Python Users Group (OPUG)
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  omahapython.github.io -- Omaha Python Users Group (OPUG)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://omahapython.github.io/" # the base hostname & protocol for your site
+github_username:  omahapython
+twitter_username: omahapython
+
+# https://github.com/pages-themes/minimal
+theme: jekyll-theme-minimal
