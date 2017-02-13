@@ -4,7 +4,7 @@
 # - https://jekyllrb.com/docs/configuration/
 # - https://jekyllrb.com/docs/frontmatter/
 
-title: omahapython.github.io | Omaha Python Users Group (OPUG)
+title: omahapython/
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Omaha Python Users Group (OPUG)
