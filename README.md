@@ -18,4 +18,5 @@
 - Homepage: [https://www.python.org/](https://www.python.org/)
 - Src: [https://github.com/python/cpython](https://github.com/python/cpython)
 - Docs: [https://docs.python.org/](https://docs.python.org/)
-- Docs: [https://docs.python.org/devguide/](https://docs.python.org/devguide/)
+- Docs: [https://packaging.python.org/](https://packaging.python.org/)
+- Docs: [https://devguide.python.org/](https://devguide.python.org/)
