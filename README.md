@@ -7,7 +7,7 @@
 - Mailing List: [https://mail.python.org/mailman/listinfo/omaha](https://mail.python.org/mailman/listinfo/omaha)
   - Mailing List Archives: [https://mail.python.org/pipermail/omaha/](https://mail.python.org/pipermail/omaha/)
   - [https://www.google.com/search?q=site:mail.python.org/pipermail/omaha/+](https://www.google.com/search?q=site:mail.python.org/pipermail/omaha/+)
-  - [http://markmail.org/search/?q=list:org.python.omaha](http://markmail.org/search/?q=list%3Aorg.python.omaha)
+  - [https://markmail.org/search/?q=list:org.python.omaha](https://markmail.org/search/?q=list%3Aorg.python.omaha)
 - Calendar: [http://www.omahapython.org/blog/calendar](http://www.omahapython.org/blog/calendar)
 - LinkedIn: [https://www.linkedin.com/groups/109308](https://www.linkedin.com/groups/109308)
 - GitHub: [https://github.com/omahapython](https://github.com/omahapython)
